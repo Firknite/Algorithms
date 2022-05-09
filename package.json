@@ -1,0 +1,13 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "learning algoritms and testing",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Firknite",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
